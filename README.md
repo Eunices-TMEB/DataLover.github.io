@@ -1,3 +1,6 @@
+![pokemon](https://user-images.githubusercontent.com/93012367/155605085-ca02ce92-961c-4f11-a0b3-70229103c78d.png)
+
+
 # <h1 align="center">Hola 👋, Soy Eunices Trujillo</h1>
 
 <h3 align="center">Autodidacta developer from Santiago, Chile</h3>
